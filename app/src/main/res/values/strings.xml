@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoogleSignIn</string>
+
+    <string name="web_client_secrets">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</string>
+
+    <string name="web_client_id">508373460203-dmf0ci05e4kdnpbso9igmntn09uhp1kl.apps.googleusercontent.com</string>
+</resources>
