@@ -16,11 +16,6 @@
         <activity
             android:name=".DynamicSpinnerActivity"
             android:exported="true" >
-
-        </activity>
-        <activity
-            android:name=".PhoneAuthActivity"
-            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -29,8 +24,15 @@
 
         </activity>
         <activity
+            android:name=".PhoneAuthActivity"
+            android:exported="true">
+
+        </activity>
+        <activity
             android:name=".GoogleSignInActivity"
-            android:exported="true"></activity>
+            android:exported="true">
+
+        </activity>
         <activity
             android:name=".MainActivity"
             android:exported="true" />
